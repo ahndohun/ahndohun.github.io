@@ -1,7 +1,7 @@
 hello world
 
-'''javascript
+```javascript
 fucntion helloworld() {
     alert("helloworld");
 }
-'''
+```
